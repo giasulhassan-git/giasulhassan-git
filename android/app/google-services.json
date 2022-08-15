@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "164428087228",
+    "project_id": "rigg-i-gaming-a3989",
+    "storage_bucket": "rigg-i-gaming-a3989.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164428087228:android:15c5eafa0e484f1e5375b9",
+        "android_client_info": {
+          "package_name": "com.rodney.rigg_i_gaming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164428087228-g69m4iebdt53m8h2loh78nqls8hkqf69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIvsHpilEb6Ro-jJfR-FIXSPaGFh0OZL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164428087228-g69m4iebdt53m8h2loh78nqls8hkqf69.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
